@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: book-recommender
+    env: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
+      - key: HUGGINGFACEHUB_API_TOKEN
+        sync: false
+      - key: GRADIO_SERVER_NAME
+        value: 0.0.0.0
+      - key: GRADIO_SERVER_PORT
+        value: 7860
+    healthCheckPath: /
