@@ -147,8 +147,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Emon Karmaker**
 
 - GitHub: [@EmonKarmaker](https://github.com/EmonKarmaker)
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Website]
+
+
 
 ---
 
@@ -161,11 +161,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
 
-For questions or feedback, please open an issue or reach out via [LinkedIn](your-linkedin-url).
 
----
+
 
 <div align="center">
   Made with ❤️ and 🤖 AI
